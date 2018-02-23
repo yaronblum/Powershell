@@ -1,0 +1,8 @@
+class CdObject 
+{
+    [string]$l = "en-us";
+    [string]$sl = "en-us";
+    [int]$cv = 3.3.3;
+}
+
+CdObject::l
